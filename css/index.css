@@ -41,10 +41,10 @@ a {
     text-decoration: none;	
     color: black;
     font-size:2.5rem;	
-}	
+}
 a:hover {	
     font-weight: bold;	
-}	
+}
 .name{	
     font-size: 150%;	
     font-weight: 200;	
@@ -78,10 +78,16 @@ nav{
 nav a{
     color:#626262;
 }
+
 nav span{
     border-left:3px solid #626262;
 
 }
+
+.active {
+    font-weight: bold;
+}
+
 /*Title Section Styles*/
 .title-container{
     display:flex;
