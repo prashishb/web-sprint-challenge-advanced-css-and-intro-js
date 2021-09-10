@@ -33,7 +33,7 @@ Please answer the following questions below, you may edit the readme file to inc
 4. What is the purpose of using functions in code?
     You can make your function do a certain task and repeat it with just a single line.
 5. How do you access a key inside of an object inside of an array?
-    obj[index].key
+    array[objIndex].keyName
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
