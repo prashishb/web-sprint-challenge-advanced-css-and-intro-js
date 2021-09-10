@@ -146,4 +146,21 @@ button:hover{
     nav span {
         margin: 5%;
     }
+
+    .title-container div {
+        width: 100%;
+    }
+
+    .artists-container {
+        flex-flow: column wrap;
+        align-items: center;
+    }
+
+    .artist {
+        width: 80%;
+    }
+
+    .artist img {
+        height: 60vw;
+    }
 }
