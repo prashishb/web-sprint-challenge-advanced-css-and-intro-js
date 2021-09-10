@@ -98,7 +98,9 @@ nav span{
     justify-content: center;
     align-items: center;
     height:60vh;
-    margin:5% 0;
+    margin-top:5%;
+    margin-bottom: 2%;
+
 }	
 .title-container div:hover {	
     opacity: 80%;	
@@ -161,6 +163,10 @@ button:hover{
     p, .name, .bio {	
         font-size: 1.5rem;
     }
+
+    .title-container hr {
+        width: 100%;
+    }
 }
 
 @media (max-width: 500px) {
@@ -191,5 +197,9 @@ button:hover{
 
     p, .name, .bio {	
         font-size: 1.1rem;
+    }
+
+    .title-container hr {
+        width: 100%;
     }
 }
